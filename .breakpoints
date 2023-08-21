@@ -1,3 +1,12 @@
 {
-  "files": {}
+  "files": {
+    "06_busqueda_lineal.py": [
+      {
+        "id": "4bc1fbcf-3df3-4938-9fdf-cbff63cef533",
+        "line": 2,
+        "version": 847,
+        "index": 14
+      }
+    ]
+  }
 }
